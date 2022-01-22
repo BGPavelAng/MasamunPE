@@ -22,5 +22,8 @@
 [+] 0.7 IMAGE_FIRST_SECTION(Characteristics)
 ---------------------------------------
 
-Actualizando unos detalles, por lo pronto no esta disponible.
--------------------------------------------------------------
+Actualizando unos detalles, por lo pronto no esta disponible (not available at the moment, please wait).
+-------------------------------------------------------------.........................................
+
+
+.
