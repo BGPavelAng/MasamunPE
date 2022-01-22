@@ -12,20 +12,20 @@ Ataca programas en memoría para ayudar a comprender el funcionamiento.
 
 [Futuros]
 
-Dump DOS Stub.
-Dump de hexadecimales y strings.
-Dump de memoria ram.
-Desamblar en código ensamblador
-mucho más...
+Dump DOS Stub.<br>
+Dump de hexadecimales y strings.<br>
+Dump de memoria ram.<br>
+Desamblar en código ensamblador.<br>
+mucho más...<br>
 
-[Procesos actuales]
+[Procesos actuales]<br>
 
 PE file format
 
 IMAGE_DOS_HEADER<br>
-IMAGE_NT_HEADERS
-IMAGE_FILE_HEADER
-IMAGE_OPTIONAL_HEADER
-IMAGE_DATA_DIRECTORY
-IMAGE_SECTION_HEADER
-DLL's cargadas por el proceso
+IMAGE_NT_HEADERS<br>
+IMAGE_FILE_HEADER<br>
+IMAGE_OPTIONAL_HEADER<br>
+IMAGE_DATA_DIRECTORY<br>
+IMAGE_SECTION_HEADER<br>
+DLL's cargadas por el proceso<br>
