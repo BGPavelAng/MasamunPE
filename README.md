@@ -1,7 +1,8 @@
 # MasamunPE
 Freeware Reversing Tool
 
-Desafortunadamente no es Open Source, pero si es Free software.
+Desafortunadamente no es Open Source, pero si es Free software.<br>
+Pronto versión Linux, Open Source ;)
 
 [Ejemplo de uso]
 
@@ -15,7 +16,8 @@ Ataca programas en memoría para ayudar a comprender el funcionamiento.
 Dump DOS Stub.<br>
 Dump de hexadecimales y strings.<br>
 Dump de memoria ram.<br>
-Desamblar en código ensamblador.<br>
+Mostrar en código ensamblador.<br>
+GUI para mejorar aspecto visual<br>
 mucho más...<br>
 
 [Procesos actuales]<br>
