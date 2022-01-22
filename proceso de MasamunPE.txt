@@ -21,3 +21,5 @@
 
 [+] 0.7 IMAGE_FIRST_SECTION(Characteristics)
 ---------------------------------------
+
+Actualizando unos detalles, por lo pronto no esta disponible.
