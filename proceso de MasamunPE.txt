@@ -22,8 +22,22 @@
 [+] 0.7 IMAGE_FIRST_SECTION(Characteristics)
 ---------------------------------------
 
-Actualizando unos detalles, por lo pronto no esta disponible (not available at the moment, please wait).
--------------------------------------------------------------.........................................
+[+] 0.7.2 Arreglos minimos de salida de datos
+---------------------------------------
+
+[+] 0.8 SYSTEM_INFO
+---------------------------------------
+
+[+] 0.9 Dump del proceso en memoria
+---------------------------------------
+
+[+] 0.9.5 Mejora en proceso en memoria
+---------------------------------------
+
+[+] 0.9.8 Mejora en entrada de datos
+---------------------------------------
+
+
 
 
 .
