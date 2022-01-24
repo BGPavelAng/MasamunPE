@@ -15,7 +15,6 @@ Ataca programas en memoría para ayudar a comprender el funcionamiento.
 
 Dump DOS Stub.<br>
 Dump de hexadecimales y strings.<br>
-Dump de memoria ram.<br>
 Mostrar en código ensamblador.<br>
 GUI para mejorar aspecto visual<br>
 mucho más...<br>
