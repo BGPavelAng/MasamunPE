@@ -20,7 +20,7 @@ mucho más...<br>
 
 [Procesos actuales]<br>
 
-PE file format
+PE file format<br>
 Dump DOS Stub.<br>
 DLL's cargadas por el proceso<br>
 Dump de memoria al proceso atacado<br>
