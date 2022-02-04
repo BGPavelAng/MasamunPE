@@ -22,6 +22,7 @@ mucho más...<br>
 
 PE file format<br>
 Dump DOS Stub.<br>
+Dump de hexadecimales y strings.<br>
 DLL's cargadas por el proceso<br>
 Dump de memoria al proceso atacado<br>
 
