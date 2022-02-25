@@ -1,3 +1,11 @@
+[+] 0.16.2 Arreglos hexdump estructura de datos
+----------------------------------------------
+
+[+] 0.16 Arreglos stub estructura de datos
+----------------------------------------------
+
+[+] 0.15.8 Arreglos stub y hexdump
+----------------------------------------------
 
 [+] 0.15.7 Arreglos minimos de salida de datos
 ----------------------------------------------
