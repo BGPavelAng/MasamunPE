@@ -13,7 +13,6 @@ Ataca programas en memoría para ayudar a comprender el funcionamiento.
 
 [Futuros]
 
-Dump de hexadecimales y strings.<br>
 Mostrar en código ensamblador.<br>
 GUI para mejorar aspecto visual<br>
 mucho más...<br>
@@ -21,10 +20,11 @@ mucho más...<br>
 [Procesos actuales]<br>
 
 PE file format<br>
-Dump DOS Stub.<br>
-Dump de hexadecimales y strings.<br>
+DOS Stub.<br>
+Dump de hexadecimales.<br>
 DLL's cargadas por el proceso<br>
 Dump de memoria al proceso atacado<br>
+Info. debug<br>
 
 IMAGE_DOS_HEADER<br>
 IMAGE_NT_HEADERS<br>
