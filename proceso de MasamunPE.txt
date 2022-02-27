@@ -1,3 +1,12 @@
+[+] 0.17 Agregado información debug
+----------------------------------------------------
+
+[+] 0.16.5 Arreglo en listado o guardado de procesos
+----------------------------------------------------
+
+[+] 0.16.4 Mejora en hexdump para lectura
+----------------------------------------------
+
 [+] 0.16.2 Arreglos hexdump estructura de datos
 ----------------------------------------------
 
