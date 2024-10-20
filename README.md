@@ -13,7 +13,7 @@ Proximamente
 
 ![2](https://github.com/user-attachments/assets/13b42ceb-31e4-4d3b-b000-94f2663b7b8f)
 
-[Ejemplo de uso - version antigua]
+<h1>[Ejemplo de uso - version antigua]</h1>
 
 masamunPE.exe lista<br>
 masamunPE.exe -P Notepad.exe<br>
