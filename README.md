@@ -2,11 +2,11 @@
 Freeware Reversing Tool
 
 Desafortunadamente no es Open Source, pero si es Free software.<br>
-Pronto versión Linux, Open Source ;)
 
 [Ejemplo de uso]
 
-masamunPE.exe notepad.exe
+masamunPE.exe lista
+masamunPE.exe -notepad.exe
 
 Es una herramienta para analizar procesos en ejecución en windows que podrían estar dañando al sistema como algun malware.
 Ataca programas en memoría para ayudar a comprender el funcionamiento.
