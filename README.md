@@ -7,7 +7,7 @@ Desafortunadamente no es Open Source, pero si es Free software.<br>
 
 masamunPE.exe lista<br>
 
--Version con Gráficos.
+<h1>Version con Gráficos</h1>
 
 ![1](https://github.com/user-attachments/assets/d13cb8f8-e950-4daf-a4f8-224e7329174f)
 
