@@ -12,7 +12,7 @@ masamunPE.exe -P Notepad.exe<br>
 ![2](https://github.com/user-attachments/assets/217ee510-082f-45fc-9abe-8d8ea0e72359)
 
 
-<h1>Version con Gráficos - 0.1.0</h1>
+<h1>MasamunPE GUI - 0.1.0</h1>
 
 Proximamente
 
