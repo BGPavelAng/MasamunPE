@@ -9,6 +9,7 @@ Desafortunadamente no es Open Source, pero si es Free software.<br>
 -Stub
 -Dll's cargadas
 -Volcado de memoria
+-Secciones
 
 ![1](https://github.com/user-attachments/assets/d13cb8f8-e950-4daf-a4f8-224e7329174f)
 
