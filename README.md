@@ -4,10 +4,11 @@ Desafortunadamente no es Open Source, pero si es Free software.<br>
 
 <h1>MasamunPE GUI - 0.1.0</h1>
 
-Próximamente
-
--Revisar Hexadecimales<br>
--Conexión con ChatGPT
+-Lista de Procesos<br>
+-Información PE<br>
+-Stub
+-Dll's cargadas
+-Volcado de memoria
 
 ![1](https://github.com/user-attachments/assets/d13cb8f8-e950-4daf-a4f8-224e7329174f)
 
