@@ -6,10 +6,10 @@ Desafortunadamente no es Open Source, pero si es Free software.<br>
 
 -Lista de Procesos<br>
 -Información PE<br>
--Stub
--Dll's cargadas
--Volcado de memoria
--Secciones
+-Stub<br>
+-Dll's cargadas<br>
+-Volcado de memoria<br>
+-Secciones<br>
 
 ![1](https://github.com/user-attachments/assets/d13cb8f8-e950-4daf-a4f8-224e7329174f)
 
