@@ -22,5 +22,4 @@ masamunPE.exe -P Notepad.exe<br>
 
 ![1](https://github.com/user-attachments/assets/b471d0fd-a3ec-41ba-a000-f8e700b14e18)
 
-![2](https://github.com/user-attachments/assets/217ee510-082f-45fc-9abe-8d8ea0e72359)
 
